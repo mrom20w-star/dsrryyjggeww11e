@@ -1,0 +1,6 @@
+{
+  "name": "Crash — MaxBet",
+  "description": "تابع الطائرة واجمع أرباحك قبل الانفجار في Crash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
